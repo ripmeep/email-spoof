@@ -1,6 +1,11 @@
 # email-spoof
 A simple email spoofer made in C and libcurl
 
+STILL IN PROGRESS
+
+TODO: 
+    - Fix double free error
+    - Add CCs
 
 # Setup
 
